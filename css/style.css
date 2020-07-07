@@ -230,7 +230,7 @@ figure {
 
 @media (max-width: 576px) {
   
-  .container .div .div div {
+  .card-config div {
       width: 60%;
       height: 60%;
     }
