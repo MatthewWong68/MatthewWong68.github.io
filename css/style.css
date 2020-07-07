@@ -119,9 +119,9 @@ hr.light {
   
 .fa-line-chart:hover,
 .fa-linkedin:hover,
-.fa-github:hover, {
+.fa-github:hover {
   color: #d5d5d5;
-  }
+}
 
 /*---Firefox Bug Fix --*/
 .carousel-item {
