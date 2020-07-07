@@ -4,13 +4,13 @@ html, body {
   height: 100%;
   width: 100%;
   font-family: 'Poppins', sans-serif;
-  color: #222;
+  color: #15407f;
   padding-top: 47px;
 }
 
 footer {
-  background-color: #242351;
-  color: #d5d5d5;
+  background-color: #831943;
+  color: #15407f;
   padding-top: 2rem;
 }
 
@@ -50,7 +50,7 @@ hr.light {
 .navbar {
   padding: .8rem;
   color: #000;
-  background-color: #831943;
+  background-color: #f8bf14;
 }
 
 .navbar-nav li {
