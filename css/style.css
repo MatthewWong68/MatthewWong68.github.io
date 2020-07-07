@@ -5,12 +5,12 @@ html, body {
   width: 100%;
   font-family: 'Poppins', sans-serif;
   color: #15407f;
-  padding-top: 47px;
+  padding-top: 60px;
 }
 
 footer {
   background-color: #831943;
-  color: #15407f;
+  color: #d5d5d5;
   padding-top: 2rem;
 }
 
@@ -122,7 +122,7 @@ hr.light {
 .display-4 {
   font-size: 200%;
 }
-
+}
 
 .carousel-inner img {
   width: 100%;
