@@ -230,9 +230,9 @@ figure {
 
 @media (max-width: 576px) {
   
-  .row div {
-      width: 55%;
-      height: 55%;
+  .container .div .div div {
+      width: 59%;
+      height: 59%;
     }
   
   .display-4 {
