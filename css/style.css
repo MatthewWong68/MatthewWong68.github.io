@@ -19,15 +19,6 @@ hr.light {
   width: 75%;
 } 
 
-/* .intro {
-  width: 100%;
-  height: 100%;
-} */
-
-.backButton {
-  margin: 27px;
-}
-
 .container a {
   margin: 27px;
 }
@@ -35,12 +26,6 @@ hr.light {
 .row a {
   margin: 1px;
 }
-
-/* .intro hr {
-  border-top: 1px solid #b4b4b4;
-  width: 99%;
-  margin-bottom: 1rem;
-} */
 
 .intro a { 
   margin-left: 10px;
@@ -70,58 +55,6 @@ hr.light {
   width: 900px;
   margin: 100 auto;
   /* background-color: #66ffff; */
-}
-
-/*---Media Queries --*/
-@media (max-width: 992px) {
-  .carousel-caption {
-    top: 45%;
-  }
-  
-  .carousel-caption h1 {
-    font-size: 35%;
-  }
-  
-  .carousel-caption {
-    font-size: 60%;
-    font-weight: 400;
-    padding-bottom: .2rem;
-  }
-  
-  .carousel-caption .btn {
-    font-size: 120%;
-    /* padding: 8px 14px; */
-  }
-  
-  .display-4 {
-    font-size: 200%;
-  }
-  
-  .social a {
-    font-size: 4em;
-    padding: 2rem;
-  }
-  
-}
-@media (max-width: 738px) {
-.carousel-caption {
-  top: 45%;
-}
-.carousel-caption h1 {
-  font-size: 35%;
-}
-.carousel-caption {
-  font-size: 40%;
-  font-weight: 400;
-  padding-bottom: .2rem;
-}
-.carousel-caption .btn {
-  font-size: 120%;
-  /* padding: 8px 14px; */
-}
-.display-4 {
-  font-size: 200%;
-}
 }
 
 .carousel-inner img {
@@ -233,21 +166,54 @@ figure {
     padding: 1rem;
 }
 
-
-/*
-Extra small (xs) devices (portrait phones, less than 576px)
-No media query since this is the default in Bootstrap
-
-Small (sm) devices (landscape phones, 576px and up)
-@media (min-width: 576px) { ... }
-
-Medium (md) devices (tablets, 768px and up)
-@media (min-width: 768px) { ... }
-
-Large (lg) devices (desktops, 992px and up)
-@media (min-width: 992px) { ... }
-
-Extra (xl) large devices (large desktops, 1200px and up)
-@media (min-width: 1200px) { ... }
-*/
-
+/*---Media Queries --*/
+@media (max-width: 992px) {
+  .carousel-caption {
+    top: 45%;
+  }
+  
+  .carousel-caption h1 {
+    font-size: 35%;
+  }
+  
+  .carousel-caption {
+    font-size: 60%;
+    font-weight: 400;
+    padding-bottom: .2rem;
+  }
+  
+  .carousel-caption .btn {
+    font-size: 120%;
+    /* padding: 8px 14px; */
+  }
+  
+  .display-4 {
+    font-size: 200%;
+  }
+  
+  .social a {
+    font-size: 4em;
+    padding: 2rem;
+  }
+  
+}
+@media (max-width: 738px) {
+  .carousel-caption {
+    top: 45%;
+  }
+  .carousel-caption h1 {
+    font-size: 35%;
+  }
+  .carousel-caption {
+    font-size: 40%;
+    font-weight: 400;
+    padding-bottom: .2rem;
+  }
+  .carousel-caption .btn {
+    font-size: 120%;
+    /* padding: 8px 14px; */
+  }
+  .display-4 {
+    font-size: 200%;
+  }
+}
