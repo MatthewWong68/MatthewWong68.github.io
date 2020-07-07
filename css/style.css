@@ -113,11 +113,11 @@ hr.light {
   color: #0077b5;
   }
   
-.fa-line-chart{
+.fa-area-chart{
   color: #c06b00;
   }
   
-.fa-line-chart:hover,
+.fa-area-chart:hover,
 .fa-linkedin:hover,
 .fa-github:hover {
   color: #d5d5d5;
