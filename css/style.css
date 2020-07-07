@@ -215,7 +215,7 @@ figure {
 }
 
 #fixed {
-  background-image: url('img/rho.jpg');
+  background-image: url('../img/rho.JPG');
   position: fixed;
   display: block;
   top: 0;
